@@ -53,15 +53,6 @@ Hi! I'm **Tushar**, an MCA student and aspiring **Full Stack Web Developer** who
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=radical"/>
-</p>
-
----
-
 ## 🎯 2025 Goals
 
 - ✅ Launch personal portfolio website
